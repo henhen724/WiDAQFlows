@@ -1,0 +1,17 @@
+{
+  "name": "widaqflows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/node-red/red.js --settings ./settings/settings.js --userDir ./settings",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Hunt, Evan Angelico, and Sergei Nagaitsev",
+  "license": "ISC",
+  "dependencies": {
+    "node-red": "^2.0.1",
+    "node-red-dashboard": "^2.30.0",
+    "node-red-node-serialport": "^0.14.1"
+  }
+}
