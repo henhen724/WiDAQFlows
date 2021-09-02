@@ -38,5 +38,3 @@ async function setMuxAddr(channel) {
 
 
 setMuxAddr(0);
-setMuxAddr(15);
-

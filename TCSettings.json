@@ -1,0 +1,11 @@
+{
+    "TCSettings":[{
+                "channel": 0,
+                "onoff": true,
+                "type": "TYPE_K"
+        },{
+                "channel": 1,
+                "onoff": true,
+                "type": "TYPE_T"
+        }]
+}
