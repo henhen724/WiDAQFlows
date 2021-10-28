@@ -1,0 +1,10 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "onoff": "^6.0.3",
+        "spi-device": "^3.1.2"
+    }
+}
