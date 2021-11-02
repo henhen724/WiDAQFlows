@@ -665,29 +665,6 @@
             }
         }
     },
-    "node-red-contrib-xmlrpc": {
-        "name": "node-red-contrib-xmlrpc",
-        "version": "1.0.2",
-        "local": false,
-        "user": false,
-        "nodes": {
-            "xmlrpc": {
-                "name": "xmlrpc",
-                "types": [
-                    "xmlrpc call",
-                    "xmlrpc listen",
-                    "xmlrpc response",
-                    "xmlrpc-server",
-                    "xmlrpc-client"
-                ],
-                "enabled": true,
-                "local": false,
-                "user": false,
-                "module": "node-red-contrib-xmlrpc",
-                "file": "/home/pi/node-red-1/node_modules/node-red-contrib-xmlrpc/xmlrpc/xmlrpc.js"
-            }
-        }
-    },
     "@loonride/node-red-contrib-xmlrpc": {
         "name": "@loonride/node-red-contrib-xmlrpc",
         "version": "1.0.3",
