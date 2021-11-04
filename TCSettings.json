@@ -1,66 +1,6 @@
 {
     "TCSettings":[{
-                "channel": 0,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 1,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 2,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 3,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 4,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 5,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 6,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
                 "channel": 7,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 8,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 9,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 10,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 11,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 12,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 13,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 14,
-                "onoff": true,
-                "type": "TYPE_T"
-        },{
-                "channel": 15,
                 "onoff": true,
                 "type": "TYPE_T"
         }]
